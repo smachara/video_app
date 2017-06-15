@@ -15,3 +15,15 @@
 !var/SymfonyRequirements.php
 /vendor/
 /web/bundles/
+/.idea
+/.idea/workspace.xml
+/.idea/.name
+/.idea/dataSources.ids
+/.idea/dataSources.local.xml
+/.idea/dataSources.xml
+/.idea/encodings.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/video_app.iml
+/.idea/webResources.xml
