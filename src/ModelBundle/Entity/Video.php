@@ -77,6 +77,7 @@ class Video
      */
     private $updated_at;
 
+
     /**
      * Get id
      *
